@@ -1,0 +1,1 @@
+This integration is intended to use the credentials store feature for https requests. Referencing the https_v2 script for functionality.  
